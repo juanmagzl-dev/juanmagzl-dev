@@ -56,5 +56,8 @@ App para parejas que permite guardar recuerdos, citas, juegos y contenido premiu
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanmagzl-dev&show_icons=true&theme=radical" />
 </p>
+
+
+
