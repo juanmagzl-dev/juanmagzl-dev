@@ -54,23 +54,6 @@ Actualmente desarrollando **Krion**, un dashboard avanzado de trading con métri
 
 ## 💼 Proyectos Destacados
 
-###  [Krion](https://github.com/tu-usuario/krion)
-**Dashboard de Trading en Tiempo Real**
-
-Plataforma conectada a Kraken Pro y Bitget con análisis avanzado de operaciones apalancadas. Incluye cálculo de P&L, ROI, gestión de riesgo, stop-loss dinámico y alertas de liquidación.
-
-`React` `Node.js` `WebSockets` `Financial APIs` `Real-time Data`
-
----
-
-###  [OnlyYou](https://github.com/tu-usuario/onlyyou)
-**Plataforma Interactiva para Parejas**
-
-Aplicación fullstack que permite a las parejas guardar recuerdos, planificar citas, jugar juntos y acceder a contenido premium exclusivo con sistema de pagos integrado.
-
-`Next.js` `Express` `MongoDB` `Payment Gateway` `Real-time Updates`
-
----
 
 ### <img src="assets/nuacelogo.avif" width="20" height="20" style="vertical-align: middle;" /> [Nuance Watches](https://nuancewatches.es)
 **E-commerce de Relojes Premium**
@@ -96,6 +79,15 @@ Sitio web moderno para marca de joyería con galería de productos, filtros avan
 Herramienta de gestión y publicación de contenido con dashboard intuitivo y funcionalidades de automatización.
 
 `React` `Node.js` `CMS` `Automation` `Dashboard UI`
+
+---
+
+###  [Krion](https://github.com/tu-usuario/krion)
+**Dashboard de Trading en Tiempo Real**
+
+Plataforma conectada a Kraken Pro y Bitget con análisis avanzado de operaciones apalancadas. Incluye cálculo de P&L, ROI, gestión de riesgo, stop-loss dinámico y alertas de liquidación.
+
+`React` `Node.js` `WebSockets` `Financial APIs` `Real-time Data`
 
 ---
 
