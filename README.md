@@ -11,13 +11,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juanmagonzlezcruz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="30" src="assets/iconolinkedin.png" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/juanmadevgz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img width="30" src="assets/instaicono.svg" alt="Instagram"/>
   </a>
+  &nbsp;
   <a href="https://www.tiktok.com/@juanmadevgz" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img width="30" src="assets/iconotiktok.png" alt="TikTok"/>
   </a>
 </p>
 ---
