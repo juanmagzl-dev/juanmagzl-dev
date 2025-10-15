@@ -1,5 +1,10 @@
 <div align="center">
   <img src="assets/perfil.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Juanma Profile" />
+
+
+  <img src="assets/animated-green-astronaut-helmet.svg" width="120" style="border-radius: 20%;" alt="Animated Astronaut Helmet" />
+
+
 </div>
 
 <h1 align="center">¡Hey 👋! Soy Juanma</h1>
@@ -112,12 +117,4 @@ Plataforma conectada a Kraken Pro y Bitget con análisis avanzado de operaciones
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<iframe
-  src="https://lottie.host/embed/23f17b26-f0d3-4f86-8173-0391c407b559/o6noeb2mMM.lottie"
-  width="300"
-  height="300"
-  frameBorder="0"
-  allowfullscreen
-></iframe>
 
