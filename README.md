@@ -2,6 +2,7 @@
   <img src="assets/perfil.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Juanma Profile" />
 
   <br>
+  <br>
 
   <img src="assets/animated-green-astronaut-helmet.svg" width="120" style="border-radius: 20%;" alt="Animated Astronaut Helmet" />
 
