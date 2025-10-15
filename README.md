@@ -110,3 +110,5 @@ Plataforma conectada a Kraken Pro y Bitget con análisis avanzado de operaciones
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juanmagzl-dev&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
