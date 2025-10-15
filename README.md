@@ -1,22 +1,25 @@
+<div align="center">
+  <img src="assets/perfil.webp" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Juanma Profile" />
+</div>
+
+<h1 align="center">¡Hey 👋!, soy Juanma 🧑🏼‍💻</h1>
+
 <p align="center">
-  <img src="assets/perfil.webp" width="150" height="150" style="border-radius: 50%;" />
+  <strong>Desarrollador Web Full Stack</strong><br/>
+  Especializado en Trading y Aplicaciones Interactivas
 </p>
 
-<h1 align="center">Hey, soy Juanma 👋</h1>
-<p align="center">💻 Desarrollador Web | Fullstack | Proyectos de Trading y Aplicaciones Interactivas</p>
-
 <p align="center">
+  <a href="https://www.linkedin.com/in/juanmagonzlezcruz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.instagram.com/juanmadevgz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@juanmadevgz" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/juanmagonzlezcruz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 Sobre mí
