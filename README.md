@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/perfil.webp" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Juanma Profile" />
+  <img src="assets/11zon_cropped.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Juanma Profile" />
 </div>
 
 <h1 align="center">¡Hey 👋!, soy Juanma 🧑🏼‍💻</h1>
