@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola 👋! Soy Juanma
 
-<!--
-**juanmagzl-dev/juanmagzl-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web | Streamer en Twitch y YouTube
 
-Here are some ideas to get you started:
+📍 Sevilla, España
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Twitch](https://twitch.tv/tuusuario) | [YouTube](https://youtube.com/tuusuario) | [LinkedIn](https://linkedin.com/in/tuusuario)
+
+---
+
+### Últimos proyectos
+
+- 🚀 Proyecto 1
+- 🛠 Proyecto 2
+- 🎮 Proyecto 3
